@@ -1,4 +1,7 @@
-/*  Analog to digital converter
+/*  
+	ADC.c
+	
+	Analog to digital converter
     Reads analog input from adc_input and converts it to digital.
     Maps digital output to C degrees and displays it in the LCD.     
 */

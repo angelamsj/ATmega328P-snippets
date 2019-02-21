@@ -1,5 +1,8 @@
-/* Frequencimeter
-   Measure the frequency of a squared wave using the microcontroller internal clock
+/* 
+	Frecuencimetro.c
+	
+	Frequencimeter
+	Measure the frequency of a squared wave using the microcontroller internal clock
 */
 #include <mega328P.h>
 

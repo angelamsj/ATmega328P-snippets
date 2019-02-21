@@ -1,5 +1,8 @@
-/* Cronometer
-   Cronometer with a Pacman on display 
+/* 
+	Cronometro.c
+	
+	Cronometer
+	Cronometer with a Pacman on display 
 */
 
 #include <MEGA328P.h> 
