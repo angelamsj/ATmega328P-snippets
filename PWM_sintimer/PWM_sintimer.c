@@ -1,9 +1,9 @@
 /* 
-	PWM_sintimer.c
-	
-	PWM using delay
-	tiempo1 = 0x00 -> DC = 0 %
-	tiempo1 = 0x0F -> DC = (15/16) * 100 %
+    PWM_sintimer.c
+
+    PWM using delay
+    tiempo1 = 0x00 -> DC = 0 %
+    tiempo1 = 0x0F -> DC = (15/16) * 100 %
 */
 
 #include <mega328P.h>
