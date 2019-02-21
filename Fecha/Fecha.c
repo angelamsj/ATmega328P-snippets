@@ -1,5 +1,8 @@
-/* Day finder
-   Given a date, returns the corresponding day of the week
+/* 
+	Fecha.c
+	
+	Day finder
+	Given a date, returns the corresponding day of the week
 */
 
 #include <mega328p.h>

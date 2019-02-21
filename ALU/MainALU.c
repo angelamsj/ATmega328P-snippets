@@ -1,3 +1,9 @@
+/*  
+	MainALU.c
+	
+	Entry point of the Arithmetic Logic Unit.
+*/
+
 #include <mega328P.h>
 #include "ALU.h"
 

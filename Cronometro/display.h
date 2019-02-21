@@ -1,3 +1,5 @@
+// display.h
+
 // Libreria del display de cuarzo liquido. Agustin Dominguez O. V 2.0
 // Si se cambian la conexiones: cambiar las definiciones de abajo
 // y la configuracion de los pines de salida en ConfiguraLCD()

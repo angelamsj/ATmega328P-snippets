@@ -1,3 +1,10 @@
+/*  
+	ALU.c
+	
+	Arithmetic logic unit interface
+    Functions included: not, and, nand, or, nor, xor, xnor, and add.
+*/
+
 #include "ALU.h"
 
 unsigned char not (

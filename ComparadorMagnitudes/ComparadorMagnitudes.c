@@ -1,4 +1,7 @@
-/*  Comparator of two magnitudes
+/*  
+	ComparadorMagnitudes.c
+	
+	Comparator of two magnitudes
     Compares magnitudes represented in hexadecimal. 
     Values from 0 - 255
 */
