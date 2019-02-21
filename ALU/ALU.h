@@ -1,7 +1,7 @@
-/*  
-	ALU.h
-	
-	Arithmetic logic unit interface
+/*
+    ALU.h
+    
+    Arithmetic logic unit interface
     Functions included: not, and, nand, or, nor, xor, xnor, and add.
 */ 
 

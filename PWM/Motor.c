@@ -1,9 +1,9 @@
 /* 
-	Motor.c
-	
-	PWM using timer 1
-	PIND = 0x00 -> Duty cycle = 0 %
-	PIND = 0xFF -> Duty cycle = 100 %
+    Motor.c
+
+    PWM using timer 1
+    PIND = 0x00 -> Duty cycle = 0 %
+    PIND = 0xFF -> Duty cycle = 100 %
 */
 #include <mega328P.h>
 

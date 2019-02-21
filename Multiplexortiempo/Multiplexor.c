@@ -1,7 +1,7 @@
 /* 
-	Multiplexor.c
-	
-	Semaphore
+    Multiplexor.c
+
+    Semaphore
 */
 
 #include <mega328P.h>
